@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "description": "Библиотеки для проектов",
+  "main": "index.js",
+  "authors": [
+    "masterforsite"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
